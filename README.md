@@ -93,3 +93,52 @@ The dashboard was also analyzed using different filters to examine sales perform
 [Open the Power BI Dashboard](powerbi/blinkit-dashboard.pbix)
 
 ---
+
+# 🐍 Python Analysis
+
+Python was used for data exploration, data cleaning, KPI calculation, and exploratory data analysis.
+
+### Libraries Used
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Analysis Performed
+
+The Python analysis includes:
+
+* Dataset exploration
+* Data-type inspection
+* Missing-value inspection
+* Categorical-value inspection
+* Data cleaning
+* KPI calculation
+* Exploratory data analysis
+* Sales analysis by product characteristics
+* Sales analysis by outlet characteristics
+* Data visualization
+
+### Data Cleaning
+
+The `Item_Fat_Content` column contained inconsistent categorical values such as:
+
+* `Low Fat`
+* `low fat`
+* `LF`
+* `Regular`
+* `reg`
+
+These values were standardized into:
+
+* **Low Fat**
+* **Regular**
+
+This ensures that the same category is not treated as multiple different categories during analysis.
+
+### Python Notebook
+
+[View the Python Analysis Notebook](python/blinkit_analysis.ipynb)
+
+---
