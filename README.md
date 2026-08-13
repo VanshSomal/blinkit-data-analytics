@@ -69,4 +69,24 @@ The analysis produced the following overall KPIs:
 
 These KPIs provide a high-level overview of the sales performance represented in the dataset.
 
+---
 
+# 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize the major KPIs and sales patterns identified during the analysis.
+
+### Dashboard Preview
+
+![Blinkit Power BI Dashboard](screenshots/main_dashboard.png)
+![Blinkit Power BI Dashboard Filter 01](screenshots/dashboard_filtered_01.png)
+![Blinkit Power BI Dashboard Filter 02](screenshots/dashboard_filtered_02.png)
+![Blinkit Power BI Dashboard Filter 03](screenshots/dashboard_filtered_03.png)
+![Blinkit Power BI Dashboard Filter 04](screenshots/dashboard_filtered_04.png)
+
+
+
+### Power BI File
+
+[Open the Power BI Dashboard](powerbi/blinkit-dashboard.pbix)
+
+---
