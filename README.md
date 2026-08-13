@@ -78,12 +78,15 @@ An interactive Power BI dashboard was created to visualize the major KPIs and sa
 ### Dashboard Preview
 
 ![Blinkit Power BI Dashboard](screenshots/main_dashboard.png)
-![Blinkit Power BI Dashboard Filter 01](screenshots/dashboard_filtered_01.png)
-![Blinkit Power BI Dashboard Filter 02](screenshots/dashboard_filtered_02.png)
-![Blinkit Power BI Dashboard Filter 03](screenshots/dashboard_filtered_03.png)
-![Blinkit Power BI Dashboard Filter 04](screenshots/dashboard_filtered_04.png)
 
+### Filtered Dashboard Views
 
+The dashboard was also analyzed using different filters to examine sales performance across various business dimensions.
+
+- [Dashboard Filter 01](screenshots/dashboard_filtered_01.png)
+- [Dashboard Filter 02](screenshots/dashboard_filtered_02.png)
+- [Dashboard Filter 03](screenshots/dashboard_filtered_03.png)
+- [Dashboard Filter 04](screenshots/dashboard_filtered_04.png)
 
 ### Power BI File
 
